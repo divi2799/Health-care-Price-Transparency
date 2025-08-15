@@ -1,4 +1,3 @@
-select * from hospital_charges_MA_TMC;
 -- Disable safe updates
 SET SQL_SAFE_UPDATES = 0;
 CREATE DATABASE IF NOT EXISTS health;
