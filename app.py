@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO)
 DB_CONFIG = {
     'host': 'mysql',
     'user': 'root',
-    'password': 'ABCabc@23',
+    'password': 'password',
     'database': 'health',
     'cursorclass': DictCursor,
     'autocommit': True
